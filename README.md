@@ -25,3 +25,12 @@ Algorithm | Notebookfile |
 | Gradient Boosting (LightGBM) | [Gradient Boosting (LightGBM)](./Gradient_Boosting_(LightGBM).ipynb) |
 | K-Means Clustering | [K-Means Clustering](./K-Means%20Clustering.ipynb)|
 | Gaussian Mixture Model | [Gaussian Mixture Model](./Gaussian%20Mixture%20Model.ipynb) |
+
+## Installation Instructions
+To run the notebooks the following tools and libs need to be installed:
+* [Anaconda3 - Individual] (https://www.anaconda.com/products/individual)
+```shell script
+conda install -c conda-forge cufflinks-py
+pip install plotly==3.10.0
+pip install python-highcharts
+```
