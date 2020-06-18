@@ -28,7 +28,7 @@ Algorithm | Notebookfile |
 
 ## Installation Instructions
 To run the notebooks the following tools and libs need to be installed:
-* [Anaconda3 - Individual] (https://www.anaconda.com/products/individual)
+* [Anaconda3 - Individual](https://www.anaconda.com/products/individual)
 ```shell script
 conda install -c conda-forge cufflinks-py
 pip install plotly==3.10.0
